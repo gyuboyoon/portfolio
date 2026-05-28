@@ -130,7 +130,7 @@
 import { motion } from 'framer-motion'
 import Image from 'next/image'
 
-const pills = ['Node.js', 'Next.js', 'AWS 인프라', 'n8n 자동화', 'ChatGPT API', 'LiteLLM', 'Supabase']
+const pills = ['Node.js', 'Next.js', 'React', 'AWS 인프라', 'n8n', '자동화', 'ChatGPT API', 'LiteLLM', 'Supabase']
 
 const fadeUp = (delay = 0) => ({
   initial: { opacity: 0, y: 24 },

@@ -196,15 +196,15 @@ function RevealBox({ children, delay = 0 }: { children: React.ReactNode; delay?:
 }
 
 const stats = [
-  { num: '5+', label: 'Years of\nDevelopment' },
+  { num: '4+', label: 'Years of\nDevelopment' },
   { num: '40%', label: 'API 응답속도\n단축' },
   { num: '50%', label: '보고서 작성\n시간 절감' },
   { num: '0%', label: '채팅 메시지\n유실률' },
 ]
 
 const identityTags = [
-  '커뮤니케이터', '팀 리더', '기획자', '백엔드 개발자',
-  'AI 자동화', '풀사이클', '사용자 중심', '실행하는 사람',
+  '커뮤니케이터', '기획자', '개발자',
+  'AI', '자동화', '풀사이클', '사용자 중심', '실행하는 사람',
 ]
 
 const stories = [
