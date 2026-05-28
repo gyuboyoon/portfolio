@@ -128,7 +128,7 @@
 
 import { motion } from 'framer-motion'
 
-const pills = ['Node.js', 'Next.js', 'React', 'AWS', 'n8n',  '자동화', 'ChatGPT API', 'LiteLLM', 'Supabase']
+const pills = ['Node.js', 'Next.js', 'React', 'AWS', 'n8n', 'ChatGPT API', 'LiteLLM', 'Supabase']
 
 const fadeUp = (delay = 0) => ({
   initial: { opacity: 0, y: 24 },
@@ -165,7 +165,7 @@ export default function Hero() {
             transition={{ duration: 2, repeat: Infinity }}
             style={{ fontSize: 7, color: 'var(--success)' }}
           >●</motion.span>
-          Available for new opportunities
+          Full-Stack Developer · Open to new opportunities
         </motion.div>
 
         <motion.h1 {...fadeUp(0.1)} style={{
