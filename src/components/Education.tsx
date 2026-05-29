@@ -22,7 +22,7 @@ const education = [
   {
     school: '한국방송통신대학교',
     major: '컴퓨터과학과',
-    period: '2023.09 — 재학 중',
+    period: '2023.09 — 2026.02',
     icon: '🎓',
   },
   {
