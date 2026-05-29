@@ -31,12 +31,12 @@ const links = [
     value: 'github.com/gyuboyoon',
     href: 'https://github.com/gyuboyoon',
   },
-  {
-    icon: '✎',
-    label: 'BLOG',
-    value: 'velog.io/@yoon9yubo',
-    href: 'https://velog.io/@yoon9yubo',
-  },
+//   {
+//     icon: '✎',
+//     label: 'BLOG',
+//     value: 'velog.io/@yoon9yubo',
+//     href: 'https://velog.io/@yoon9yubo',
+//   },
 ]
 
 export default function Contact() {
