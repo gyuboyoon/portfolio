@@ -29,7 +29,7 @@ const experiences = [
     tags: ['Next.js', 'React', 'Flask', 'n8n', 'Slack API', 'Notion API', 'LiteLLM', 'Claude Code', 'Jira'],
   },
   {
-    period: '2023.01 — 2025.04',
+    period: '2023.01 — 2024.10',
     company: '(주)스마트디아그노시스',
     role: 'R&D 연구원 · Web Developer',
     title: 'TestWith — AI 기반 온라인 시험 솔루션',
