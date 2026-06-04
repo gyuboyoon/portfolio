@@ -151,8 +151,8 @@ const skillGroups = [
   { icon: '🖥️', title: 'Frontend', items: ['Next.js', 'React', 'JavaScript ES6+', 'HTML/CSS'], hot: ['Next.js', 'React'] },
   { icon: '🗄️', title: 'Database', items: ['Supabase', 'MySQL', 'MongoDB', 'AWS RDS'], hot: ['Supabase'] },
   { icon: '☁️', title: 'Infra & DevOps', items: ['AWS EC2', 'Auto Scaling', 'S3', 'CloudFront', 'GitHub Actions', 'PM2'], hot: ['AWS EC2'] },
-  { icon: '🤖', title: 'AI & Automation', items: ['n8n', 'LiteLLM', 'ChatGPT API', 'Gemini API', 'Claude Code', 'Copilot'], hot: ['n8n', 'LiteLLM'] },
-  { icon: '🛠️', title: 'Tools', items: ['Git / GitHub', 'Slack', 'Notion', 'Jira', 'Miro'], hot: [] },
+  { icon: '🤖', title: 'AI & Automation', items: ['n8n', 'LiteLLM', 'ChatGPT API', 'Gemini API', 'Claude API', 'Gemini API', 'Claude Code', 'Copilot'],
+  hot: ['n8n', 'LiteLLM', 'Claude API'] },{ icon: '🛠️', title: 'Tools', items: ['Git / GitHub', 'Slack', 'Notion', 'Jira', 'Miro'], hot: [] },
 ]
 
 export default function Skills() {

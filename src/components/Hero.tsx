@@ -68,7 +68,7 @@ export default function Hero() {
           fontSize: 16, color: 'var(--text2)',
           maxWidth: 500, lineHeight: 1.9, marginBottom: 40,
         }}>
-          사람을 먼저 읽고, 기술로 문제를 해결합니다.<br />
+          필요한 것은 대화로 찾아내고, 코드와 기술로 문제를 해결합니다.<br />
           기획부터 배포까지, 팀과 함께 더 나은 시스템을 만듭니다.
         </motion.p>
 
